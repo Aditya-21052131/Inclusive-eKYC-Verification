@@ -1,2 +1,2 @@
 # Inclusive-eKYC-Verification
-The Inclusive eKYC Verification Platform is a secure, scalable, and globally adaptable eKYC solution that integrates with MOSIP’s eSignet for verifying customer identities. 
+The Inclusive eKYC Verification Platform is a secure, scalable, and globally adaptable eKYC solution that integrates with MOSIP’s eSignet for verifying customer identities. This platform can be used by banks, insurance providers, telecom companies, and government bodies to verify users’ identities digitally, ensuring regulatory compliance, security, and inclusivity. The solution is designed to support seamless onboarding of users from all socio-economic backgrounds.
