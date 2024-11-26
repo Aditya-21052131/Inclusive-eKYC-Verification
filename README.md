@@ -3,6 +3,16 @@ The Inclusive eKYC Verification Platform is a secure, scalable, and globally ada
 
 web link:-https://stalwart-cranachan-2b7505.netlify.app
 
+<img width="590" alt="home" src="https://github.com/user-attachments/assets/3c4e087a-6bb4-46e0-aed7-becd75b15fd0">
+<img width="587" alt="about" src="https://github.com/user-attachments/assets/c9005af2-4818-42d6-9d72-36cb7f5ad1d8">
+<img width="592" alt="contact" src="https://github.com/user-attachments/assets/6b627867-e67d-40cf-88e2-5d88a2423cea">
+<img width="646" alt="1" src="https://github.com/user-attachments/assets/e6373129-b4d9-4273-b89d-ed05707df973">
+<img width="589" alt="3" src="https://github.com/user-attachments/assets/cff4fbf8-337d-40b1-a13f-bd2239cb1e7b">
+<img width="590" alt="4" src="https://github.com/user-attachments/assets/afb08442-7741-453c-9a84-2c585b443c52">
+<img width="585" alt="5" src="https://github.com/user-attachments/assets/6cf3acca-22d2-46b5-88b4-fbc6429408fe">
+<img width="604" alt="6" src="https://github.com/user-attachments/assets/2c3dfc74-3f86-41a7-9b43-f59268933ec5">
+
+
 # Inclusive eKYC Verification Platform
 
 Overview:
